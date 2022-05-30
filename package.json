@@ -1,0 +1,24 @@
+{
+  "name": "5-projektas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domasbab/5-Projektas.git"
+  },
+  "keywords": [],
+  "author": "Domas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Domasbab/5-Projektas/issues"
+  },
+  "homepage": "https://github.com/Domasbab/5-Projektas#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
